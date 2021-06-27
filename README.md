@@ -24,5 +24,5 @@ In this folder you will find:
 
 **data/**, containing the necessary data for running the notebooks.
 
-We have tried for the notebooks to be self-suficient while avoiding too much repetition, so some are more verbose than others: we therefore recommend going through the documents in the above order. 
+We have tried for the documents to be as self-contained as possible while avoiding too much repetition, so some are more verbose than others: we therefore recommend going through them in the above order. 
 
