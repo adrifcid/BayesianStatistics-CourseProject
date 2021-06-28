@@ -14,11 +14,11 @@ In this folder you will find:
 
 **CERN-NcrSamples-Logistic-JAGS.ipynb**, where we implement the RTR with the NCR instead.
 
-**CERN-RandomSamples-Logistic-STAN.ipynb** Marcos
+**CERN-RandomSamples-Logistic-STAN.ipynb**, a notebook with the vanilla and Horseshoe implementations of a logistic regression with random undersampling in STAN.
 
-**CERN-OssSamples-Logistic-STAN.ipynb** Marcos
+**CERN-OssSamples-Logistic-STAN.ipynb**, where we do the same but with our RTR method, implemented with OSS.
 
-**CERN-RandomSamples-Logistic-SpikeSlab.ipynb** Marcos
+**CERN-RandomSamples-Logistic-SpikeSlab.ipynb**, a notebook with the Spike and Slab implementation of a logistic regression with random undersampling using BoomSpikeSlab.
 
 **literature/**, a folder with the references we could find and consult.
 
